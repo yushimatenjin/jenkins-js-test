@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jest": "^25.4.0",
+    "playcanvas-tools": "^0.5.9"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
